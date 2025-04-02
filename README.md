@@ -1,4 +1,4 @@
-in👋 Hi, I'm Shubham Bhausaheb Naralkar
+👋 Hi, I'm Shubham Bhausaheb Naralkar
 Data Analyst | Python Developer | Aspiring Data Scientist
 
 📍 Location: Pune, Maharashtra
